@@ -102,7 +102,7 @@ colorscheme molokai
 if has("gui_running")
 " GUI? устаналиваем тему и размер окна
   set lines=50 columns=125
-  set guifont=Consolas\ 12
+  set guifont=Consolas\ 11
 endif
 
 " set CWD to current file's dir
